@@ -7,7 +7,7 @@ Henry Johnson
 
 ---- PROJECT ----
 
-NFT Marketplace - NFT Landing Page
+JavaScript Issue Tracker
 
 ---- DESCRIPTION ----
 
